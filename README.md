@@ -8,6 +8,8 @@ Onshape link: https://cad.onshape.com/documents/d59c375a8372ff0a5e820680/w/a1f58
 It's quite simple and was inspired by a newton's cradle with the balls that hit into each other to help students learn physical concepts like momentum.
 This instead uses letters instead of balls to spell out a name and is a nice little desk ornament!
 
+To hold up the letters you can use zipties or string or fishing line. I personally used zipties and I think zipties work best. I tried printing it with rods attached to the letters however they are too thin and your printer may start stringing. 
+
 Printables Link: https://www.printables.com/model/1764650-newton-cradle-name 
 
 Here is the image of the final product
