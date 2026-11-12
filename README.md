@@ -13,12 +13,13 @@ To hold up the letters you can use zipties or string or fishing line. I personal
 Printables Link: https://www.printables.com/model/1764650-newton-cradle-name 
 
 BOM
-| Item | Quantity | Description | Estimated Amazon Price (USD) |
-| :--- | :---: | :--- | :---: |
-| 3D Printed Frame | 1 | Main frame printed from STL | $1.50 (filament) |
-| 3D Printed Letter Set | 1 | Custom name letters printed from STL | $0.75 (filament) |
-| Zip Ties (I used and best) (4-6 in) | 8 | Used to suspend the letters | $3.99 (100-pack) |
-| OR Fishing Line | 1 | Alternative to zip ties for suspension | $5.99 (50 m spool) |
+| Item | Quantity | Description | Estimated Amazon Price (USD) | Link |
+| :--- | :---: | :--- | :---: | :--- |
+| 3D Printed Frame | 1 | Main frame printed from STL ($1.50 individual print cost) | $1.50 | [Link](https://a.co/d/01zmK8de) |
+| 3D Printed Letter Set | 1 | Custom name letters printed from STL ($0.75 individual print cost) | $0.75 | [Link](https://a.co/d/01zmK8de) |
+| OVERTURE 1kg PLA Filament Spool | 1 | Full 1kg black spool (Unit cost) | $13.98 | [Link](https://a.co/d/01zmK8de) |
+| Zip Ties (250-Pack) | 8 | Used to suspend the letters | $3.39 | [Link](https://a.co/d/033Rlfj1) |
+| Fishing Line | 1 | Alternative to zip ties for suspension (788FT) | $4.59 | [Link](https://a.co/d/0iMZp1ii) |
 
 Here is the image of the final product
 
